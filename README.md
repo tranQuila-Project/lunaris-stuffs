@@ -1,1 +1,1 @@
-# Changelogs for Infinity Updates for veux
+# Changelogs for Lunaris Updates for veux
