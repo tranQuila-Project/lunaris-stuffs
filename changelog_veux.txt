@@ -1,2 +1,7 @@
 # Device Changelogs
 
+Date - 20-03-26
+- Initial Release Build
+- Added OTA Support for future updates
+- Includes Automatic High Brightness Mode , Lunaris Dolby Atmos, Gamebar v4.0,  ViPER4AndroidFX & Leica Camera
+
