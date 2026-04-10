@@ -1,5 +1,12 @@
 # Device Changelogs
 
+Date - 08-04-2026
+- Synced to **Latest 3.9 Source**
+- Update blair configs
+- Update brightness configs from stallion
+- Configure CPU temp multiplier for doze
+- Miscellaneous Improvements
+
 Date - 20-03-26
 - Initial Release Build
 - Added OTA Support for future updates
