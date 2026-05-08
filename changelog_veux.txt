@@ -1,5 +1,13 @@
 # Device Changelogs
 
+Date - 08-05-2026
+- Synced to **Latest 3.10 Source**
+- Add per-device Dolby state memory for LunarisDolby
+- Add Support For Kernel-SU Next & Kernel-SU 3.1.0+ versions
+- Remove deprecated TARGET_PROVIDES_AUDIO_EXTNS flag
+- Disable gestural burn in protection
+- Miscellaneous Improvements
+
 Date - 08-04-2026
 - Synced to **Latest 3.9 Source**
 - Update blair configs
